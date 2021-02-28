@@ -12,9 +12,22 @@ button {
   border-radius: 8px;
   cursor: pointer;
 }
-
+h1 {
+  font-family: Aclonica;
+}
 h3, h4 {
   margin-bottom: 0;
+}
+
+.about-me-fonts {
+  font-family: Akaya Kanadaka;
+  font-size: 1.2em;
+}
+
+.contact-fonts {
+  background-color: #C7D3D4FF;
+  font-family: Amaranth;
+  font-size: 1em;
 }
 
 nav {
@@ -24,6 +37,7 @@ nav {
   top: 0;
   width: 100%;
   background: white;
+  z-index: 1;
 }
 
 nav ul {
@@ -112,7 +126,7 @@ nav a:hover {
   padding: 10px;
   transition: all 0.3s ease;
   color: white;
-  /* font-size: 20px; */
+  font-size: 1em;
   /* border-radius: 5px; */
 }
 
@@ -145,4 +159,15 @@ nav a:hover {
 .instagram {
   background: rgb(159, 7, 159);
   color: white;
+}
+
+input[type=radio] {
+  width: 20px;
+  height: 20px;
+}
+
+.form-check-input::after {
+  color: #fff;
+  border-color: #000;
+  background-color: #000;
 }

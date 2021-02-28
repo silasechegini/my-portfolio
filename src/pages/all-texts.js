@@ -1,13 +1,15 @@
 const texts = {
         "about me": [
-            `I am an enthusiastic software engineer with over 2+ years experience participating in the complete
-            productvdevelopment lifecycle of successfullyvlaunched applications. I am eager to take up competitive 
-            and challenging opportunities to delivervmission-critical technology and business solutionsvto Fortune 
+            `I am a life long learner, an enthusiastic software developer with over 2+ years of experience with Web technologies,
+            and I have participated in the complete
+            product development lifecycle of successfully launched applications. I am eager to take up competitive 
+            and challenging opportunities to deliver mission-critical technology and business solutions to Fortune 
             500 companies and some of the most recognized brands on the planet. In previous roles, I reduced downtime 
-            by 15%; identified and resolved a process bottleneck that reduced coding efficiency by up to 30%.
-            I like building awesome software. I built this website, have built browser plugins, corporate software
+            by 15%; identified and resolved process bottlenecks that reduced coding efficiency by up to 30%.
+            I like building awesome software. I could have used wordpress to build this website but i am not a big fan of drag and drop so, 
+            I decided to get my hands dirty. I have built lots of single page web applications, corporate software
             and currently collaborating with my peers in the software development paradigm to build applications just for fun!
-            Need something built or simply want to have a chat? Reach out to me on social media or contact me`,
+            Need something built or simply want to have a chat? Reach out to me on social media.`,
         ],
 
         hobbies: [
@@ -23,23 +25,33 @@ const texts = {
         ],
 
         expertise: {
-            summary: [
-                `In the last 2+ years, I have been dealing with programming languages ​​in various fields. The web uses
-                HTML, CSS, PHP and Java. Of course, C++ is required for high performance, and is used instead of Python 
-                when making prototypes and samples, or for hobby projects.`
+            sumary: [
+                `I have been working with programming languages for over 3+ years now, ​​in various fields. I started off with 
+                C++, writing modules for embedded systems and networking devices, and then i ventured into web developement where 
+                i am currently at, and enjoying the entire process. `
             ],
             languages: [
                 `JavaScript`,
-                `React JS`,
+                `React JS and REDUX`,
                 `Node Js`,
-                `C#`,
-                `.Net`,
-                `Java`,
+                `jQuery`,
                 `HTML5`,
                 `CSS`,
                 `SASS`,
-                `jQuery`,
+                `C#/.Net`,
+                `Java`,
                 `PowerShell`
+            ],
+            tools : [
+                `Jenkins`,
+                `VSCode`,
+                `git`,
+                `Docker`,
+                `Kubernetes`,
+                `MS Azure Dev`,
+                `SQL`,
+                `PostgreSQL`,
+                `NO SQL (MongoDB)`,
             ]
         }
 }
