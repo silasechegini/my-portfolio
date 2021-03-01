@@ -53,7 +53,24 @@ const texts = {
                 `PostgreSQL`,
                 `NO SQL (MongoDB)`,
             ]
-        }
+        },
+
+        Projects : {
+
+        },
+
+        Drivers : [
+            `Pursue passion not paycheques`,
+            `Be systematic, relentless and dogged`,
+            `Dont take yourself too seriously`,
+            `Learn everyday`,
+            `Believe in change`,
+            `Prioritize the other person`,
+            `Invest in ideas that matter`,
+            `Be lazy sometimes and have fun`
+        ]
+
+
 }
 
 export default texts;

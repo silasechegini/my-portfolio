@@ -41,13 +41,13 @@ const AboutPage = () => {
                             <h2>Hey, I'm Ngozi</h2>
                             <p>{texts['about me']}</p>
                         </div>
-                        <div className="row p-4" style={{"backgroundColor":Colors.Pink.Pink}}>
+                        <div className="row p-4" style={{"backgroundColor":Colors.Pink.White}}>
                             <p>{texts['hobbies']}</p>
                             <ul><MyHobbies /></ul>
                         </div>
                     </div>
                 </div>
-                <div className="row " style={{"backgroundColor":Colors.Pink.DarkPink}}>
+                <div className="row " style={{"backgroundColor":Colors.Pink.Pink}}>
                     <div className="row ml-0 p-4">
                         <h1>Expertise and Tools</h1>
                         <p>{texts.expertise.sumary}</p>
