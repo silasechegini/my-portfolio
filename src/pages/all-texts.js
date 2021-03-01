@@ -55,9 +55,10 @@ const texts = {
             ]
         },
 
-        Projects : {
+        Projects : 
+            `I did a research program at Carleton University on Mobile Ad-Hoc Networks and out of it came the a thesis and 
+            a few papers which i have shared here (for your eyes only)`,
 
-        },
 
         Drivers : [
             `Pursue passion not paycheques`,
